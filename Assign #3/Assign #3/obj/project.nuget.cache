@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "4Ujpy1eA+Rc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kaiky\\source\\repos\\Assign #3\\Assign #3\\Assign #3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kaiky\\.nuget\\packages\\raylib-cs\\6.1.1\\raylib-cs.6.1.1.nupkg.sha512",
+    "C:\\Users\\Kaiky\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
